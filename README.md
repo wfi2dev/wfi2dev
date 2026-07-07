@@ -45,18 +45,6 @@ I'm a **Junior Java Developer** who loves and is passionate about both *Java Min
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wfi2dev&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wfi2dev&layout=compact&theme=radical)
-
-</div>
-
----
-
 ## 📫 Contact
 
 <div align="center">
